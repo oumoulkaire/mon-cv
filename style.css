@@ -1,0 +1,93 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    color:burlywood;
+    display: flex;
+}
+
+.corp{
+    display: flex;
+
+}
+
+ 
+   .right{
+       margin-left: 10%;
+       margin: bottom 50px;
+   }
+
+
+    .section-right{
+       justify-content:space-around ;
+    }
+    .droitephoto {
+        width: 150px;
+        height: 150px;
+        border-radius: 30px;
+     
+     
+    }
+    img{
+        
+    }
+    h4{
+        font-size: x-large;
+        font-family: fantasy;
+        }
+        main{
+            background-color: slategrey;
+        }
+
+        span{
+            font-size: 15px;
+        }
+        .post{
+            margin-left: 3px;
+        }
+    
+
+        @media screen and (max-width:380px) {
+
+
+            span{
+                font-size: 10px;
+            }
+        }
+        @media screen and (max-width:285px) {
+        
+
+
+     
+
+        header{
+            color:burlywood;
+            display: flex;
+            font-size: 10px;
+        }
+
+
+        .right{
+            margin-left: 2%;
+            margin: bottom 50px;
+        }
+
+        
+  .mm{
+    font-size: 15px;
+   }
+
+
+   span{
+    font-size: 8px;
+   }
+       
+        }
+        
+
+
+        
+    
